@@ -1,6 +1,6 @@
 /*
  * ============================================================
- *  SMART EXPENSE TRACKER  -  A beginner-friendly C project
+ *  SMART EXPENSE TRACKER  
  * ============================================================
  *  Features : Add, View, Total, Search (by category), Delete
  *  Storage  : expenses.txt  (one expense per line, fields
